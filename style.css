@@ -1,0 +1,19 @@
+button{
+    
+    background-color:paleturquoise;
+    color:rgb(93, 68, 255); 
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 10%;
+    border-color:white;
+    border-width: 2px;
+    border-style: solid;
+    margin:5px;
+    margin-bottom: 10px;
+    padding:10px;
+   
+}
+body{
+    background-color:rgb(89, 128, 255);
+    color:white;
+}
